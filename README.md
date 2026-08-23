@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Azka!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Web+Development+Enthusiast;Networking+%26+IoT+Explorer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Di10kpihU4dyXY2v14" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-anime-Di10kpihU4dyXY2v14">via GIPHY</a></p>" />
 
 <br>
 
