@@ -1,151 +1,110 @@
 <div align="center">
 
-# 👋 Hey, I'm Azka!
+# Hey 👋 I'm Azka
 
-<img src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Di10kpihU4dyXY2v14" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-anime-Di10kpihU4dyXY2v14">via GIPHY</a></p>" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Web+Development+Enthusiast;Networking+%26+IoT+Explorer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<img src="<iframe src="https://giphy.com/embed/Di10kpihU4dyXY2v14" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-anime-Di10kpihU4dyXY2v14">via GIPHY</a></p>">
-
-<br><br>
-
-<p>
-  <i>Building things, breaking things, learning from them, and building them better.</i> 🚀
-</p>
+<img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="360" alt="Hello Anime GIF">
 
 </div>
 
 ---
 
-## 🌐 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **Azka**, an **Information Technology student from Madiun, Indonesia** who enjoys coding, building projects, and exploring the world of technology.
+Hi! I'm **Azka**, an **Information Technology student from Madiun, Indonesia** who enjoys coding, building projects, and exploring technology.
 
-I'm particularly interested in **web development, computer networking, and IoT**, while continuously improving my technical skills through projects and experimentation.
+I'm interested in **web development, computer networking, and IoT**, while continuously learning and improving my technical skills.
 
-### 💫 A little about me
-
-* 💻 Interested in **Programming & Web Development**
-* 🌐 Enjoy exploring **Computer Networking**
-* 📡 Interested in **IoT & Network-based Projects**
-* 🛠️ Love building and experimenting with **IT Projects**
-* 📚 Currently learning and improving my **technical skills**
-* 🎯 Goal: **Keep learning, building, and growing**
-* 🎮 Fun fact: I enjoy **Minecraft** and technology in my free time
+* 💻 Programming & Web Development
+* 🌐 Computer Networking
+* 📡 IoT & Network-based Projects
+* 🛠️ Building and experimenting with IT projects
+* 📚 Always learning something new
+* 🎯 Keep learning, building, and growing
+* 🎮 Minecraft & Valorant enjoyer
+* 🎧 Love listening to music
 
 ---
 
-## 🧑‍💻 What I'm Into
+## 🛠️ I Code With
 
 <div align="center">
 
-|  💻 Development |    🌐 Networking    |         📡 IoT         |
-| :-------------: | :-----------------: | :--------------------: |
-| Web Development |  Computer Networks  |      IoT Projects      |
-|   Programming   |   Network Systems   | Network-based Projects |
-|     UI / UX     | Network Exploration |   Hardware + Software  |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Development
+<br>
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="Google Cloud" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
 
 </div>
 
-### 🎨 Tools & Platforms
+---
+
+## 🌐 Interests
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="Google Cloud" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+**Web Development** · **Networking** · **IoT** · **Cloud** · **Programming**
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🎧 When I'm Not Coding
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   📚 Learning                                │
-│   ├── Web Development                        │
-│   ├── Computer Networking                    │
-│   └── IoT & Network-based Systems             │
-│                                              │
-│   🛠️ Building                                │
-│   ├── Personal Projects                      │
-│   ├── Web Applications                       │
-│   └── IT / Networking Projects               │
-│                                              │
-│   🎯 Goal                                    │
-│   └── Learn → Build → Improve → Repeat       │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 🌱 Currently Learning
+I enjoy spending my free time listening to music, playing Minecraft, and exploring random things around technology.
 
 <div align="center">
 
-`Web Development` • `Networking` • `IoT` • `Programming` • `Cloud`
+🎵 **Music**   •   🎮 **Minecraft & Valorant**   •   💻 **Technology**
 
 </div>
 
 ---
 
-## 🎮 Outside Coding
-
-When I'm not coding or exploring technology, you'll probably find me:
-
-🎮 Playing **Minecraft & Valorant**
-💡 Exploring random tech stuff
-🌐 Learning something new
-🛠️ Experimenting with projects
-
----
-
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rifqi-azka-fakhriyan-31a47742b" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" alt="LinkedIn" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
+
 <a href="https://discord.com/users/852117460685553685" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" alt="Discord" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" alt="Discord" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
+
 <a href="http://www.youtube.com/@Fahazka" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" alt="YouTube" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" alt="YouTube" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
+
 <a href="https://open.spotify.com/user/31gdybawdep6ntta3c3tf6weoicm?si=8b8b33650fa34749" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="55" alt="Spotify" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="48" alt="Spotify" />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:azkafakhriyanz@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/38BDF8" width="48" alt="Email" />
 </a>
 
 </div>
@@ -154,12 +113,8 @@ When I'm not coding or exploring technology, you'll probably find me:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br><br>
-
 ### 💙 Keep Learning. Keep Building.
 
-<i>"Code, create, explore, repeat."</i> ✨
+<i>Code, create, explore, repeat. ✨</i>
 
 </div>
