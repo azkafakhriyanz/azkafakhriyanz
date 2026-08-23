@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="420" alt="Anime GIF">
+<img src="<iframe src="https://giphy.com/embed/Di10kpihU4dyXY2v14" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-anime-Di10kpihU4dyXY2v14">via GIPHY</a></p>">
 
 <br><br>
 
