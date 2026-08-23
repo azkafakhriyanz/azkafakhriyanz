@@ -88,9 +88,9 @@ I'm particularly interested in **web development, computer networking, and IoT**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&ring_color=38BDF8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=azkafakhriyanz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&ring_color=38BDF8" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkafakhriyanz&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" height="180" />
 
 </div>
 
@@ -133,7 +133,7 @@ I'm particularly interested in **web development, computer networking, and IoT**
 
 When I'm not coding or exploring technology, you'll probably find me:
 
-🎮 Playing **Minecraft**
+🎮 Playing **Minecraft & Valorant**
 💡 Exploring random tech stuff
 🌐 Learning something new
 🛠️ Experimenting with projects
