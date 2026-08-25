@@ -69,7 +69,7 @@ I'm interested in **web development, computer networking, and IoT**, while conti
 
 ## 🎧 When I'm Not Coding
 
-I enjoy spending my free time listening to music, playing Minecraft, and exploring random things around technology.
+I enjoy spending my free time listening to music, playing Minecraft & Valorant, and exploring random things around technology.
 
 <div align="center">
 
