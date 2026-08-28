@@ -35,7 +35,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="100%" max-width="180px" style="border-radius:15px;" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="180px" style="border-radius:12px;" alt="Coding GIF">
 </p>
 
 * 🎓 **Education:** Vocational University Student majoring in **Information Technology**.
