@@ -116,12 +116,5 @@
 | Lofi & Indie Pop | Minecraft & Valorant | *"Keep learning, keep building, keep growing."* |
 
 <br>
-
-```javascript
-const developer = {
-  name: 'Azka',
-  role: 'IT Student & Developer',
-  location: 'Madiun, ID',
-  hobbies: ['Gaming', 'Music', 'Networking Experiments'],
   currentStatus: 'Building awesome projects 🚀'
 };
