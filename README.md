@@ -91,7 +91,7 @@
 <table border="0">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azkafakhriyanzE&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Azka's Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azkafakhriyanz&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Azka's Stats"/>
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkafakhriyanz&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages"/>
