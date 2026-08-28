@@ -35,14 +35,14 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="100%" max-width="360px" style="border-radius:15px;" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="100%" max-width="180px" style="border-radius:15px;" alt="Coding GIF">
 </p>
 
 * 🎓 **Education:** Vocational University Student majoring in **Information Technology**.
 * 🔭 **Current Focus:** Deepening knowledge in **Computer Networking**, **MikroTik**, and modern **Web Development**.
 * 🌱 **Learning:** Cloud Computing, Microservices, and IoT Protocols.
 * 💡 **Interests:** Server administration, Web apps, Linux environment, & System integration.
-* ⚡ **Fun Fact:** When not coding, I'm usually grinding matches on **Valorant** or building redstone contraptions in **Minecraft**.
+* ⚡ **Fun Fact:** When not coding, I'm usually grinding matches on **Valorant** or enjoy playing **Minecraft**.
 
 ---
 
