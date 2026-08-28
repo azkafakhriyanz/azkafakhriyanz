@@ -1,12 +1,34 @@
 <div align="center">
 
-# Hey 👋 I'm Azka
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0083B0&height=220&section=header&text=Hi%20there,%20I'm%20Azka%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Web+Development+Enthusiast;Networking+%26+IoT+Explorer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Web+Development+Enthusiast;Networking+%26+IoT+Explorer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<br>
+<p align="center">
+  <b>📍 Based in Madiun, Indonesia 🇮🇩 &nbsp;|&nbsp; 🎓 Focus on IT & Networking</b>
+</p>
 
-<img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="360" alt="Hello Anime GIF">
+<!-- SOCIAL MEDIA BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rifqi-azka-fakhriyan-31a47742b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="http://www.youtube.com/@Fahazka" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.com/users/852117460685553685" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://open.spotify.com/user/31gdybawdep6ntta3c3tf6weoicm" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="mailto:azkafakhriyanz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 </div>
 
@@ -14,107 +36,92 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Azka**, an **Information Technology student from Madiun, Indonesia** who enjoys coding, building projects, and exploring technology.
-
-I'm interested in **web development, computer networking, and IoT**, while continuously learning and improving my technical skills.
-
-* 💻 Programming & Web Development
-* 🌐 Computer Networking
-* 📡 IoT & Network-based Projects
-* 🛠️ Building and experimenting with IT projects
-* 📚 Always learning something new
-* 🎯 Keep learning, building, and growing
-* 🎮 Minecraft & Valorant enjoyer
-* 🎧 Love listening to music
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <br>
+      <ul>
+        <li>🎓 <b>Education:</b> Vocational High School Student (Computer & Network Engineering).</li>
+        <li>🔭 <b>Current Focus:</b> Deepening knowledge in <b>Computer Networking</b>, <b>MikroTik</b>, and modern <b>Web Development</b>.</li>
+        <li>🌱 <b>Learning:</b> Cloud Computing, Microservices, and IoT Protocols.</li>
+        <li>💡 <b>Interests:</b> Server administration, Web apps, Linux environment, & System integration.</li>
+        <li>⚡ <b>Fun Fact:</b> When not coding, I'm usually grinding matches on <b>Valorant</b> or building redstone contraptions in <b>Minecraft</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="280px" style="border-radius:15px;" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ I Code With
+## 🛠️ Tech Stack & Tools
+
+<p align="left"><b>Languages & Web Frameworks</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left"><b>Networking, Systems & Infrastructure</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MikroTik-EE3124?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="left"><b>Developer Tools & Software</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Overview & Stats
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
-
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="Azka's Stats"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="Google Cloud" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌐 Interests
+## 🎮 Beyond The Code
 
 <div align="center">
 
-**Web Development** · **Networking** · **IoT** · **Cloud** · **Programming**
+| 🎧 Listening To | 🎯 Favorite Games | 💡 Daily Motto |
+| :---: | :---: | :---: |
+| Lofi & Indie Pop | Minecraft & Valorant | *"Keep learning, keep building, keep growing."* |
 
-</div>
+<br>
 
----
-
-## 🎧 When I'm Not Coding
-
-I enjoy spending my free time listening to music, playing Minecraft & Valorant, and exploring random things around technology.
-
-<div align="center">
-
-🎵 **Music**   •   🎮 **Minecraft & Valorant**   •   💻 **Technology**
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rifqi-azka-fakhriyan-31a47742b" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://discord.com/users/852117460685553685" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" alt="Discord" />
-</a>
-&nbsp;&nbsp;
-
-<a href="http://www.youtube.com/@Fahazka" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" alt="YouTube" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://open.spotify.com/user/31gdybawdep6ntta3c3tf6weoicm?si=8b8b33650fa34749" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="48" alt="Spotify" />
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:azkafakhriyanz@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/38BDF8" width="48" alt="Email" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Keep Learning. Keep Building.
-
-<i>Code, create, explore, repeat. ✨</i>
-
-</div>
+```javascript
+const developer = {
+  name: 'Azka',
+  role: 'IT Student & Developer',
+  location: 'Madiun, ID',
+  hobbies: ['Gaming', 'Music', 'Networking Experiments'],
+  currentStatus: 'Building awesome projects 🚀'
+};
