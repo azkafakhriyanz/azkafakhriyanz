@@ -34,23 +34,15 @@
 
 ## 👨‍💻 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br>
-      <ul>
-        <li>🎓 <b>Education:</b> Higher Vocational Student majoring in <b>Information Technology.</li>
-        <li>🔭 <b>Current Focus:</b> Deepening knowledge in <b>Computer Networking</b>, <b>MikroTik</b>, and modern <b>Web Development</b>.</li>
-        <li>🌱 <b>Learning:</b> Cloud Computing, Microservices, and IoT Protocols.</li>
-        <li>💡 <b>Interests:</b> Server administration, Web apps, Linux environment, & System integration.</li>
-        <li>⚡ <b>Fun Fact:</b> When not coding, I'm usually grinding matches on <b>Valorant</b> or building redstone contraptions in <b>Minecraft</b>.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="280px" style="border-radius:15px;" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/Di10kpihU4dyXY2v14/giphy.gif" width="100%" max-width="360px" style="border-radius:15px;" alt="Coding GIF">
+</p>
+
+* 🎓 **Education:** Vocational University Student majoring in **Information Technology**.
+* 🔭 **Current Focus:** Deepening knowledge in **Computer Networking**, **MikroTik**, and modern **Web Development**.
+* 🌱 **Learning:** Cloud Computing, Microservices, and IoT Protocols.
+* 💡 **Interests:** Server administration, Web apps, Linux environment, & System integration.
+* ⚡ **Fun Fact:** When not coding, I'm usually grinding matches on **Valorant** or building redstone contraptions in **Minecraft**.
 
 ---
 
@@ -104,7 +96,7 @@
 
 <br>
 
-<pre align="left">
+<pre>
 const developer = {
   name: 'Rifqi Azka Fakhriyan',
   role: 'IT Student & Developer',
